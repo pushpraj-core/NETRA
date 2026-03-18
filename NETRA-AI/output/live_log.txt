@@ -1,0 +1,22 @@
+[NETRA] Initialising modules …
+Model summary (fused): 73 layers, 11,125,971 parameters, 0 gradients, 28.4 GFLOPs
+[NETRA][DepthEstimator] MiDaS unavailable, using zero-depth fallback: It looks like there is no internet connection and the repo could not be found in the cache (/Users/devas_007/.cache/torch/hub)
+[NETRA] All modules ready.
+
+[NETRA] Processing source: /Users/devas_007/Downloads/N.E.T.R.A.-master 2/netra-api/uploads/video-1773534394860.jpeg  (30 FPS, is_image=True)
+
+  ✦ NETRA-6FCD00A0-46E  Severity: Moderate (0.59)  GPS: (21.2508, 81.6298)  Loop: PERSISTS  [Unique: 1]
+  ✦ NETRA-8DD0EAB3-861  Severity: Moderate (0.53)  GPS: (21.2514, 81.6296)  Loop: NEW  [Unique: 2]
+[NETRA] Saved annotated image to: /Users/devas_007/Downloads/N.E.T.R.A.-master 2/NETRA-AI/output/annotated_image.jpg
+
+============================================================
+  NETRA Session Complete
+  Unique potholes detected : 2
+  Total frame observations : 2
+  Unique records  → /Users/devas_007/Downloads/N.E.T.R.A.-master 2/NETRA-AI/output/unique_potholes.json
+  Full session    → /Users/devas_007/Downloads/N.E.T.R.A.-master 2/NETRA-AI/output/session_detections.json
+============================================================
+Syncing /Users/devas_007/Downloads/N.E.T.R.A.-master 2/NETRA-AI/output/unique_potholes.json to http://localhost:5000/api/potholes ...
+[✓] Synced NETRA-6FCD00A0-46E
+[✓] Synced NETRA-8DD0EAB3-861
+Successfully synced 2/2 records.

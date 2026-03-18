@@ -1,0 +1,3 @@
+Pothole ID,Timestamp,Frame Index,Latitude,Longitude,Severity Label,Severity Score,Max Depth,Loop Closure
+NETRA-6FCD00A0-46E,2026-03-15T00:26:36.729198+00:00,0,21.250845,81.629799,Moderate,,1.0,PERSISTS
+NETRA-8DD0EAB3-861,2026-03-15T00:26:36.741308+00:00,0,21.25141,81.629597,Moderate,,1.0,NEW
