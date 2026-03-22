@@ -1,3 +1,4 @@
+> **Note:** This project was built quickly during a national level hackathon (achieving 3rd rank). The original repository crashed, so it was moved here for presentation purposes. Commit history may be sparse.
 # NETRA — Autonomous Pothole Intelligence Platform
 
 > **N**eural **E**ngine for **T**errain **R**ecognition & **A**nalysis
